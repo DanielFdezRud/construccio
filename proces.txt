@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 retirar l’excés d’aigua
+=======
+remenar 5 minuts
+>>>>>>> 285b74bc65fd8fa4bf93feecad20ad944c48acf3
